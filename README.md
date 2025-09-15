@@ -5,7 +5,7 @@ Este dashboard foi criado para analisar **volume, pontualidade e equipes de log�
 ---
 📷 **Exemplo do Dashboard:**  
 
-![Painel Interativo de logistica](Image/logistica.png)  
+![performance_logistica](Image/logistica.png)  
 
 ---
 ## 📊 Visão Geral
